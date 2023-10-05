@@ -1,0 +1,5 @@
+Here is where you will find all the requirements to run this website locally. 
+
+Things to download:
+
+1. xampp 
